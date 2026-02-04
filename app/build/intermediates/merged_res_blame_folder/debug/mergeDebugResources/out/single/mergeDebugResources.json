@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_ace.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\ace.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.testing_smth.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.example.testing_smth.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_henry.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\henry.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_max.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\max.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_zeus.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\zeus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_hachiko.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\hachiko.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_view_dog_logo_cartoon_cute_mascot_white_background_320637956.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\view_dog_logo_cartoon_cute_mascot_white_background_320637956.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_rex.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\rex.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_bella.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\bella.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_snow.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\snow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_luna.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\luna.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_samoyed_momo.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\samoyed_momo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_coming_soon.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\coming_soon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\layout_activity_second_page.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\layout\\activity_second_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-debug-35:\\drawable_chedar.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.example.testing_smth.app-main-37:\\drawable\\chedar.jpg"
+    }
+]
