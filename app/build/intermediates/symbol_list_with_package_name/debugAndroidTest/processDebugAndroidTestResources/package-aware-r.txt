@@ -1,0 +1,3 @@
+com.example.testing_smth.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
